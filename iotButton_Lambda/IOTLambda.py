@@ -36,6 +36,8 @@ def deleteNews():
                     }
                     ) 
 
+// Actualizacion de lambda
+
 def findNews():
     #News credit to newsapi.org
     #Fetch headlines using the API
